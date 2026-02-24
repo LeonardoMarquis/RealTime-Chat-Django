@@ -1,0 +1,5 @@
+
+
+Basta rodarmos o nosso servidor com o nosso banco de dados Redis e fazer as migrations do projeto django e 
+assim dar run e usar o programa django, por enquanto nao ha identificacao, basta enviar as mensagens, para 
+usar no mesmo computador e simular duas pessoas, precisa abrir duas janelas do navegador, uma para cada pessoa
